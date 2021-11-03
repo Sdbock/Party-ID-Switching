@@ -14,7 +14,7 @@ if (!require(devtools))
   install.packages("devtools")
 if (!require(drlib))
   devtools::install_github("dgrtwo/drlib")
-if (!require(drlib))
+if (!require(ggbrace))
   devtools::install_github("nicolash2/ggbrace")
 
 pacman::p_load(tidyverse, ggpubr, glue, ggbrace, drlib, ggalluvial, ggthemes)
