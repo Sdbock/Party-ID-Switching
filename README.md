@@ -1,4 +1,4 @@
-# Visualizing-Partisan-Identification-Switching-in-the-General-Social-Survey-Panel-2016-2020
+# Party ID Switching
 This is the replication package to the article: Bock, Sean, and Landon Schnabel. “Visualizing Partisan Identification Switching in the General Social Survey Panel, 2016–2020.” Socius, (January 2021). https://doi.org/10.1177/23780231211057322. It includes all data files and R scripts needed to recreate the visualizations in the main text, as well as the appendix. 
 
 # How to run files
